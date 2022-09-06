@@ -42,7 +42,7 @@
 
 
 # spring-boot-period-style-iso8601
-Demonstrate the [pull request #32235 of Spring Boot, version 2.7.3 with JDK 11] (https://github.com/spring-projects/spring-boot/pull/32235) I created on September 5, 2022
+Demonstrate the [pull request #32235 of Spring Boot, version 2.7.3 with JDK 11](https://github.com/spring-projects/spring-boot/pull/32235) I created on September 5, 2022
 
 # Steps to Demonstrate the Issue in #32235
 1. Git clone the source code;
